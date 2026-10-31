@@ -1,0 +1,6 @@
+{
+  "name": "OpenRepoLens - GitHub Repository & Activity Explorer",
+  "description": "Explore public GitHub repositories, commit activity heatmaps, source code, live deployments, and AI-powered repository insights without leaving the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
